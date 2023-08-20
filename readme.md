@@ -46,3 +46,5 @@ java -Xbootclasspath/a:/usr/lib/jvm/java-1.8.0-openjdk-1.8.0.372.b07-1.el7_9.x86
 ```
 ![image](images/LRZIYEFK1csDb3S8p5QnGWXOfrmtGnCTUiWJ3GXQhV4.png)
 
+
+## 声明：使用次工具造成损失或者触犯法律的均与工具提供者无关
